@@ -6,7 +6,7 @@
 }
 
 .banner {
-    background-image:linear-gradient(rgba(0, 0, 255, 0.114), rgba(255, 247, 0, 0.057)), url(image/album-paris-copy-min.png);
+    background-image:linear-gradient(rgba(1, 1, 36, 0.612), rgba(49, 14, 0, 0.705)), url(image/album-paris-copy-min.png);
     background-size: cover;     
     background-position: center;
     padding: 20px;
