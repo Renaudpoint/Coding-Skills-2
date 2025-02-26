@@ -6,7 +6,7 @@
 }
 
 .banner {
-    background-image: url(image/album-paris.png);  
+    background-image:linear-gradient(rgba(0, 0, 255, 0.114), rgba(255, 247, 0, 0.057)), url(/Users/renaudpoint/Desktop/My-profile/image/album-paris-copy-min.png);
     background-size: cover;     
     background-position: center;
     padding: 20px;
